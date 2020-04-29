@@ -86,10 +86,12 @@ blockquote {
 
 #scoreBoard>tbody>tr:first-child>td {
   background-color: #fb4f14;
+  text-align: center;
 }
 
 #scoreBoard>tbody>tr:last-child>td {
   background-color: #c83803;
+  text-align: center;
 }
 
 #scoreBoard>tfoot>tr>th {
